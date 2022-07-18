@@ -13,7 +13,7 @@
 ##### 3. Cluster Centroids
 ##### ![](https://github.com/yfaulkne/Credit_Risk_Analysis/blob/main/Images/ClusterCentroids.png)
 ##### 4. SMOTEENN
-##### ![]()
+##### ![](https://github.com/yfaulkne/Credit_Risk_Analysis/blob/main/Images/SMOTEENN.png)
 ##### 5. Balanced Random Forest Clsssifier (unable to run code due to attribute error)
 ##### 6. Easy Ensemble Classifier (unable to run code due to attribute error)
 
