@@ -19,4 +19,4 @@
 ---
 ### Summary
 ##### Of the tests that the codes were able to run successfully, the Random OverSampler model had the highest accuracy. Accuracy can be calculated using the confusion matrix from each code and the values for True Positives, True Negatives, False Positives, and False Negatives. For confusion matrix results, please see the jupyter notebook codes for each machine learning model. 
-##### It is my reccomendation to use the Random OverSampler model as the tool for the credit risk analysis
+##### It is my reccomendation to use the Random OverSampler model as the tool for this particular credit risk analysis.
