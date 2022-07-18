@@ -11,7 +11,7 @@
 ##### 2. SMOTE
 ##### ![](https://github.com/yfaulkne/Credit_Risk_Analysis/blob/main/Images/SMOTE.png)
 ##### 3. Cluster Centroids
-##### ![]()
+##### ![](https://github.com/yfaulkne/Credit_Risk_Analysis/blob/main/Images/ClusterCentroids.png)
 ##### 4. SMOTEENN
 ##### ![]()
 ##### 5. Balanced Random Forest Clsssifier (unable to run code due to attribute error)
