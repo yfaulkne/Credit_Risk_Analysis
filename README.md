@@ -9,7 +9,7 @@
 ##### 1. Random OverSampler
 ##### ![](https://github.com/yfaulkne/Credit_Risk_Analysis/blob/main/Images/RandomOverSampling.png)
 ##### 2. SMOTE
-##### ![]()
+##### ![](https://github.com/yfaulkne/Credit_Risk_Analysis/blob/main/Images/SMOTE.png)
 ##### 3. Cluster Centroids
 ##### ![]()
 ##### 4. SMOTEENN
